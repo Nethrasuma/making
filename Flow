@@ -1,0 +1,13 @@
+#include<stdio.h>
+intadd(inta,intb)
+{
+retun a+b;
+}
+intmain()
+{
+inta=2;
+intb=3;
+intc=add(a,b);
+printf("result is :%d\n",c);
+return0;
+}
