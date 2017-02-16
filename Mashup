@@ -1,0 +1,11 @@
+#include<stdio.h>
+int add(inta,intb,intc)
+{
+return a+b+c;
+}
+int main()
+{
+inta=10;intb=20;intc=30;
+intd=add(a,b,c);
+printf("sum of 3 no id :%d\n",d);
+return0;}
