@@ -1,0 +1,14 @@
+#include <stdio.h>
+int add (inta,intb)
+{
+return a+b;
+}
+int main()
+{
+inta=10;
+intb=20;
+intc=add(a,b);
+printf("result is %d\n",c);
+return0;
+}
+
